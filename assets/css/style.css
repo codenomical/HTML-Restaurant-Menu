@@ -18,7 +18,7 @@ li {
 }
 
 img {
-    width: 100%;
+    width: 50%;
     height: auto;
     max-width: 100%;
 }
@@ -53,13 +53,13 @@ nav a:hover {
 }
 
 #banner {
-    width: 100%;
+    width: 50%;
     height: auto;
     background-color: white;
 }
 
 #banner img {
-    width: 60%;
+    width: 50%;
     height: auto;
 }
 
@@ -83,4 +83,11 @@ td,
 th {
     border: 1px solid black;
     padding: 5px;
+    width:50%;
+}
+
+#eggrolls{
+    width: 75%;
+    height: auto;
+    max-width: 100%;
 }
